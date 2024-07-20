@@ -90,28 +90,22 @@ node index.js
 
 - **Açıklama**: Bot komutları hakkında bilgi verir. 
 
-## Katılım ve Sözleşme
-
-Bu projeye katkıda bulunmak veya ekibimize katılmak için [katılım sözleşmesi](link-to-agreement) şartlarını kabul etmeniz gerekmektedir. Lütfen sözleşme metnini dikkatlice okuyun.
-
-## Katkıda Bulunma
-
-Katkıda bulunmak isterseniz, lütfen [katkıda bulunma rehberimizi](CONTRIBUTING.md) takip edin.
-
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-Herhangi bir soru veya öneriniz varsa, lütfen [support@example.com](mailto:support@example.com) adresi üzerinden bizimle iletişime geçin.
-
-## Destekleyenler
-
-- [Geliştirici 1](https://github.com/developer1)
-- [Geliştirici 2](https://github.com/developer2)
+Herhangi bir soru veya öneriniz varsa, lütfen [.gg/codeblog](https://discord.gg/codeblog) adresi üzerinden bizimle iletişime geçin.
 
 ## Diğer Kaynaklar
 
 - [Discord.js Dokümantasyonu](https://discord.js.org/#/docs/main/stable/general/welcome)
 - [Stardew Valley Resmi Sitesi](https://www.stardewvalley.net/)
+
+# Geliştirici
+[![Discord Presence](https://lanyard.cnrad.dev/api/1198654893758623755)](https://discord.com/users/1198654893758623755)
+
+# Discord
+[![https://api.weblutions.com/discord/invite/vc](https://api.weblutions.com/discord/invite/codeblog)](https://api.weblutions.com/discord/invite/codeblog)
+
