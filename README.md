@@ -24,7 +24,7 @@ Bu Discord botu, popüler oyun Stardew Valley'den ilham alarak Discord sunucular
 
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/username/repository.git
+git clone https://github.com/Corevpng/stardew-valley/
 cd repository
 
 # Gerekli paketleri yükleyin
