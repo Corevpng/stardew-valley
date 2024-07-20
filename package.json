@@ -1,0 +1,15 @@
+{
+  "name": "stardew-blog",
+  "version": "1.0.0",
+  "main": "hype.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hype",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}

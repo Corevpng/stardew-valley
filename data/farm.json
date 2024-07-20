@@ -1,0 +1,32 @@
+{
+  "plants": [
+    "domates",
+    "havuç",
+    "patates",
+    "mısır",
+    "biber",
+    "kabak",
+    "salatalık"
+  ],
+  "animals": [
+    "inek",
+    "tavuk",
+    "koyun",
+    "domuz",
+    "koyun",
+    "keçi",
+    "at"
+  ],
+  "production": [
+    { "name": "süt", "quantity": 0, "price": 20 },
+    { "name": "yumurta", "quantity": 0, "price": 10 },
+    { "name": "yün", "quantity": 0, "price": 30 },
+    { "name": "domates", "quantity": 0, "price": 15 },
+    { "name": "havuç", "quantity": 0, "price": 12 },
+    { "name": "patates", "quantity": 0, "price": 18 },
+    { "name": "mısır", "quantity": 0, "price": 25 },
+    { "name": "biber", "quantity": 0, "price": 20 },
+    { "name": "kabak", "quantity": 0, "price": 22 },
+    { "name": "salatalık", "quantity": 0, "price": 17 }
+  ]
+}
